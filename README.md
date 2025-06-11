@@ -8,7 +8,7 @@
 ## 📌 Pinned Projects
 
 Here are some of my notable projects:
-
+- 💬 [Razdor](https://github.com/RazdorChat): My own re-imagination of discord, in Python and Go.
 - 🧠 [lana-py](https://github.com/Serbirial/lana-py): The open-source Python version of Lana AR.
 - ⚙️ [DisCommand](https://github.com/Serbirial/DisCommand): Custom command logic built from the ground up using Discord.py.
 - 🎧 [discord-spotify-bypass](https://github.com/Serbirial/discord-spotify-bypass): Bypass Discord pausing Spotify during calls.
